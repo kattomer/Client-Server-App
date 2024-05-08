@@ -3,7 +3,8 @@
 Welcome to the Champions League Trivia Server, where the excitement never ends! This application allows you to immerse yourself in thrilling rounds of trivia about the UEFA Champions League. Players can connect and engage in a battle of wits, while automated bots add an extra layer of competition 
 
 ## Key Features
-<ins>Broadcasting Capability:</ins> The server employs UDP broadcasting to efficiently disseminate its IP address and TCP port, facilitating seamless client discovery.
+### <ins>Broadcasting Capability:</ins> 
+The server employs UDP broadcasting to efficiently disseminate its IP address and TCP port, facilitating seamless client discovery.
 
 <ins>Comprehensive Game Management:</ins> It orchestrates player connections, coordinates trivia rounds, and announces victors with precision, ensuring a smooth and enjoyable gaming experience.
 
