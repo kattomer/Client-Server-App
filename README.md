@@ -6,9 +6,11 @@ Welcome to the Champions League Trivia Server, where the excitement never ends! 
 ### <ins>Broadcasting Capability:</ins> 
 The server employs UDP broadcasting to efficiently disseminate its IP address and TCP port, facilitating seamless client discovery.
 
-<ins>Comprehensive Game Management:</ins> It orchestrates player connections, coordinates trivia rounds, and announces victors with precision, ensuring a smooth and enjoyable gaming experience.
+#### <ins>Comprehensive Game Management:</ins> 
+It orchestrates player connections, coordinates trivia rounds, and announces victors with precision, ensuring a smooth and enjoyable gaming experience.
 
-<ins>Continuous Operation:</ins> Both server and client applications run indefinitely until manually stopped, ensuring uninterrupted gameplay.
+# <ins>Continuous Operation:</ins> 
+Both server and client applications run indefinitely until manually stopped, ensuring uninterrupted gameplay.
 
 <ins>Dynamic Question Handling: </ins> The server dynamically selects questions from a meticulously curated set, providing an engaging and diverse range of challenges for participants.
 
