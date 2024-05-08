@@ -1,0 +1,130 @@
+{
+    "questions": [
+        {
+            "text": "The UEFA Champions League was founded in 1955.",
+            "correct_answer": "F",
+            "times_asked": 10,
+            "correct_responses": 4
+        },
+        {
+            "text": "Real Madrid has won the most UEFA Champions League titles.",
+            "correct_answer": "T",
+            "times_asked": 131,
+            "correct_responses": 47
+        },
+        {
+            "text": "The UEFA Champions League final is played over two legs.",
+            "correct_answer": "F",
+            "times_asked": 42,
+            "correct_responses": 16
+        },
+        {
+            "text": "The away goals rule is applied in the UEFA Champions League.",
+            "correct_answer": "T",
+            "times_asked": 15,
+            "correct_responses": 5
+        },
+        {
+            "text": "The UEFA Champions League anthem is based on a piece by Handel.",
+            "correct_answer": "T",
+            "times_asked": 11,
+            "correct_responses": 7
+        },
+        {
+            "text": "Barcelona won the UEFA Champions League in the 2018-2019 season.",
+            "correct_answer": "F",
+            "times_asked": 4,
+            "correct_responses": 2
+        },
+        {
+            "text": "Cristiano Ronaldo is the all-time top scorer in the UEFA Champions League.",
+            "correct_answer": "T",
+            "times_asked": 10,
+            "correct_responses": 2
+        },
+        {
+            "text": "The UEFA Champions League trophy is also known as 'Old Big Ears'.",
+            "correct_answer": "T",
+            "times_asked": 22,
+            "correct_responses": 2
+        },
+        {
+            "text": "The UEFA Champions League replaced the European Cup in 1992.",
+            "correct_answer": "T",
+            "times_asked": 77,
+            "correct_responses": 33
+        },
+        {
+            "text": "The UEFA Champions League final is traditionally played at Wembley Stadium.",
+            "correct_answer": "F",
+            "times_asked": 100,
+            "correct_responses": 1
+        },
+        {
+            "text": "Bayern Munich won the UEFA Champions League in the 2019-2020 season.",
+            "correct_answer": "T",
+            "times_asked": 40,
+            "correct_responses": 2
+        },
+        {
+            "text": "The UEFA Champions League group stage consists of 32 teams.",
+            "correct_answer": "T",
+            "times_asked": 20,
+            "correct_responses": 0
+        },
+        {
+            "text": "The UEFA Champions League anthem is sung in English.",
+            "correct_answer": "F",
+            "times_asked": 10,
+            "correct_responses": 1
+        },
+        {
+            "text": "AC Milan has won more UEFA Champions League titles than Liverpool.",
+            "correct_answer": "F",
+            "times_asked": 6,
+            "correct_responses": 5
+        },
+        {
+            "text": "The UEFA Champions League final is the most watched annual sporting event worldwide.",
+            "correct_answer": "T",
+            "times_asked": 26,
+            "correct_responses": 12
+        },
+        {
+            "text": "The UEFA Champions League winner automatically qualifies for the next season's competition.",
+            "correct_answer": "T",
+            "times_asked": 28,
+            "correct_responses": 24
+        },
+        {
+            "text": "The UEFA Champions League final has never been decided by a penalty shootout.",
+            "correct_answer": "F",
+            "times_asked": 12,
+            "correct_responses": 2
+        },
+        {
+            "text": "The UEFA Champions League trophy weighs approximately 7.5 kilograms.",
+            "correct_answer": "T",
+            "times_asked": 16,
+            "correct_responses": 7
+        },
+        {
+            "text": "The UEFA Champions League semifinals are played over one leg.",
+            "correct_answer": "F",
+            "times_asked": 10,
+            "correct_responses": 2
+        },
+        {
+            "text": "UEFA stands for Union of European Football Associations.",
+            "correct_answer": "T",
+            "times_asked": 2,
+            "correct_responses": 2
+        }
+    ],
+    "stats": 1,
+    "names": [
+        "Noam",
+        "Tomer",
+        "Dvir"
+    ]
+}
